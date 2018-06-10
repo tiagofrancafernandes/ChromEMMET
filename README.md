@@ -13,9 +13,13 @@ Esta extensão surgiu da necessidade de editar pequenas linhas de código em for
 ### Aos Experientes 
 Quem puder me ajudar a melhorar esta extensão, fique à vontatde.
 
-### Coisas a adicionar (TODO):
-*Um botão de liga e desliga (ON/OFF);
-*Adicionar a opção de informar os domínios onde não quero a extensão ativa;
+## Coisas a adicionar (TODO)
+```MD
+* Um botão de liga e desliga (ON/OFF)
+
+* Adicionar a opção de informar os domínios onde não quero a extensão ativa
+```
+### 
 
 | VERSAO | DATA (dd/mm/YYYY)| MODIFICAÇÃO |
 | ------ | ------ | ------ |
