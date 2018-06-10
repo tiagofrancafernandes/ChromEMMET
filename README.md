@@ -14,8 +14,8 @@ Esta extensão surgiu da necessidade de editar pequenas linhas de código em for
 Quem puder me ajudar a melhorar esta extensão, fique à vontatde.
 
 ### Coisas a adicionar (TODO):
-*-Um botão de liga e desliga (ON/OFF).
-*-Adicionar a opção de informar os domínios onde não quero a extensão ativa.
+*Um botão de liga e desliga (ON/OFF);
+*Adicionar a opção de informar os domínios onde não quero a extensão ativa;
 
 | VERSAO | DATA (dd/mm/YYYY)| MODIFICAÇÃO |
 | ------ | ------ | ------ |
