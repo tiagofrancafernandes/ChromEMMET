@@ -8,13 +8,13 @@ Versão atual: 18.0.1
 ```
 
 ## Passos - Steps
-#### 1-Baixe os arquivos e descompacte
+#### 1- Baixe os arquivos e descompacte
 
 
-#### 2-Habilite a opção desenvolvedor no Chrome
+#### 2- Habilite a opção desenvolvedor no Chrome
 
 
-#### 3-Vá em Extensões (chrome://extensions) > CARREGAR SEM COMPACTAÇÃO > Selecione a pasta onde os arquivos de "source" estão e pronto!
+#### 3- Vá em Extensões (chrome://extensions) > CARREGAR SEM COMPACTAÇÃO > Selecione a pasta onde os arquivos de "source" estão e pronto!
 
 
 > #### Dúvidas:
