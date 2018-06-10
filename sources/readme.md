@@ -1,9 +1,10 @@
-# ChromEMMET TGO
+# ChromEMMET TGO (Sources)
 
 //Extensão do Chrome que adicona o Emmet (https://emmet.io) nas ```textareas``` HTML.
 
+
 ```
-## Sources
+Versão atual: 18.0.1
 ```
 
 ## Passos - Steps
