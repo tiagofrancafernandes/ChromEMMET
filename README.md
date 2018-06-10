@@ -19,7 +19,7 @@ Quem puder me ajudar a melhorar esta extensão, fique à vontatde.
 
 * Adicionar a opção de informar os domínios onde não quero a extensão ativa
 
-### 
+## Histórico
 
 | VERSAO | DATA (dd/mm/YYYY)| MODIFICAÇÃO |
 | ------ | ------ | ------ |
