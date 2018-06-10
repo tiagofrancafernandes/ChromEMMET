@@ -1,0 +1,2 @@
+//Criada por Tiago França (http:/tiagofranca.com)
+//Baseada no tutorial em: https://robots.thoughtbot.com/how-to-make-a-chrome-extension
