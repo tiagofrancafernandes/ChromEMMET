@@ -1,6 +1,6 @@
 # ChromEMMET TGO
 
-//Extensão do Chrome que adicona o Emmet (https://emmet.io) nas textareas HTML.
+//Extensão do Chrome que adicona o Emmet (https://emmet.io) nas ```textareas``` HTML.
 
 ```
 ##(Release V_18.0.1)
