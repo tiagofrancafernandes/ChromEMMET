@@ -32,7 +32,7 @@ Será expandido para:
 
 >Esta é minha primeira extensão publicada.
 >
-[Ver na Chrome WebStore:](#)
+[Ver na Chrome WebStore:](https://chrome.google.com/webstore/detail/amaigkggpdbgoanjpdehlbignmfkiboi/)
 
 Esta extensão surgiu da necessidade de editar pequenas linhas de código em formulários online.
 
