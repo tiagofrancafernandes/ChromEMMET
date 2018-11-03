@@ -26,12 +26,13 @@ Será expandido para:
 
 
 ```
-##(Release V_18.0.1)
+##(Release V_18.0.2)
 ```
 
 
->Esta é minha primeira extensão desenvolvida apenas por mim.
->Tive outras extensões desenvolvidas, mas sempre com parcerias incriveis.
+>Esta é minha primeira extensão publicada.
+>
+[Ver na Chrome WebStore:](#)
 
 Esta extensão surgiu da necessidade de editar pequenas linhas de código em formulários online.
 
